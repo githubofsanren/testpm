@@ -1,1 +1,1 @@
-branchA:word2
+branchA:word1
